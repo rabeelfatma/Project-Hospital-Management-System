@@ -1,0 +1,431 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|solutionrelative:form\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|c:\\users\\nc\\desktop\\rabeel(032)\\form - copy\\form\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|solutionrelative:form\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|solutionrelative:form\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|solutionrelative:form\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\medicalrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|solutionrelative:form\\medicalrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|solutionrelative:form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|solutionrelative:form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\diagnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|solutionrelative:form\\diagnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\diagnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|solutionrelative:form\\diagnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\medicalrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|solutionrelative:form\\medicalrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\medicalrecords.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|solutionrelative:form\\medicalrecords.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\bills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|solutionrelative:form\\bills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\doctors.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|solutionrelative:form\\doctors.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|solutionrelative:form\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|solutionrelative:form\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|solutionrelative:form\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|solutionrelative:form\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|solutionrelative:form\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|solutionrelative:form\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|solutionrelative:form\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\patients.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|solutionrelative:form\\patients.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\bills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|solutionrelative:form\\bills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|solutionrelative:form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|solutionrelative:form\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|solutionrelative:form\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A6952504-7384-453F-BCB6-F5C8B1DCC78E}|form\\form.csproj|solutionrelative:form\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 247,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Diagnosis.cs",
+              "DocumentMoniker": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Diagnosis.cs",
+              "RelativeDocumentMoniker": "form\\Diagnosis.cs",
+              "ToolTip": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Diagnosis.cs",
+              "RelativeToolTip": "form\\Diagnosis.cs",
+              "ViewState": "AgIAAAkBAAAAAAAAAAAwwCABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:30:44.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Diagnosis.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Diagnosis.cs",
+              "RelativeDocumentMoniker": "form\\Diagnosis.cs",
+              "ToolTip": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Diagnosis.cs [Design]",
+              "RelativeToolTip": "form\\Diagnosis.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:29:14.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Appointment.cs",
+              "RelativeDocumentMoniker": "form\\Appointment.cs",
+              "ToolTip": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Appointment.cs",
+              "RelativeToolTip": "form\\Appointment.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAqwL8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:41:13.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Appointment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Appointment.cs",
+              "RelativeDocumentMoniker": "form\\Appointment.cs",
+              "ToolTip": "C:\\Users\\NC\\Desktop\\form - Copy\\form\\Appointment.cs [Design]",
+              "RelativeToolTip": "..\\..\\form - Copy\\form\\Appointment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:26:56.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "medicalrecords.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\medicalrecords.Designer.cs",
+              "RelativeDocumentMoniker": "form\\medicalrecords.Designer.cs",
+              "ToolTip": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\medicalrecords.Designer.cs",
+              "RelativeToolTip": "form\\medicalrecords.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T11:33:02.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Doctors.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Doctors.Designer.cs",
+              "RelativeDocumentMoniker": "form\\Doctors.Designer.cs",
+              "ToolTip": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Doctors.Designer.cs",
+              "RelativeToolTip": "form\\Doctors.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:43:56.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Patients.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Patients.Designer.cs",
+              "RelativeDocumentMoniker": "form\\Patients.Designer.cs",
+              "ToolTip": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Patients.Designer.cs",
+              "RelativeToolTip": "form\\Patients.Designer.cs",
+              "ViewState": "AgIAAHoBAAAAAAAAAAAqwJQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:58:16.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Patients.cs",
+              "DocumentMoniker": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Patients.cs",
+              "RelativeDocumentMoniker": "form\\Patients.cs",
+              "ToolTip": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Patients.cs",
+              "RelativeToolTip": "form\\Patients.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAIAzwAkBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T07:57:57.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patients.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Patients.cs",
+              "RelativeDocumentMoniker": "form\\Patients.cs",
+              "ToolTip": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Patients.cs [Design]",
+              "RelativeToolTip": "form\\Patients.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T07:57:53.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "bills.cs",
+              "DocumentMoniker": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\bills.cs",
+              "RelativeDocumentMoniker": "form\\bills.cs",
+              "ToolTip": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\bills.cs",
+              "RelativeToolTip": "form\\bills.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAEwA8BAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T05:36:11.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Form2.cs",
+              "RelativeDocumentMoniker": "form\\Form2.cs",
+              "ToolTip": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Form2.cs",
+              "RelativeToolTip": "form\\Form2.cs",
+              "ViewState": "AgIAAHoBAAAAAAAAAAAswIgBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T07:55:29.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "medicalrecords.cs",
+              "DocumentMoniker": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\medicalrecords.cs",
+              "RelativeDocumentMoniker": "form\\medicalrecords.cs",
+              "ToolTip": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\medicalrecords.cs",
+              "RelativeToolTip": "form\\medicalrecords.cs",
+              "ViewState": "AgIAAEYBAAAAAAAAAAAAwFkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:00:09.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "medicalrecords.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\medicalrecords.cs",
+              "RelativeDocumentMoniker": "form\\medicalrecords.cs",
+              "ToolTip": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\medicalrecords.cs [Design]",
+              "RelativeToolTip": "form\\medicalrecords.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T10:45:53.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Form3.cs",
+              "RelativeDocumentMoniker": "form\\Form3.cs",
+              "ToolTip": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Form3.cs",
+              "RelativeToolTip": "form\\Form3.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAApwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:20:57.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Form3.cs",
+              "RelativeDocumentMoniker": "form\\Form3.cs",
+              "ToolTip": "C:\\Users\\NC\\Desktop\\form - Copy\\form\\Form3.cs [Design]",
+              "RelativeToolTip": "..\\..\\form - Copy\\form\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:06:49.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Program.cs",
+              "RelativeDocumentMoniker": "form\\Program.cs",
+              "ToolTip": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Program.cs",
+              "RelativeToolTip": "form\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:04:19.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Form2.cs",
+              "RelativeDocumentMoniker": "form\\Form2.cs",
+              "ToolTip": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Form2.cs [Design]",
+              "RelativeToolTip": "form\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:04:13.705Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bills.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\bills.cs",
+              "RelativeDocumentMoniker": "form\\bills.cs",
+              "ToolTip": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\bills.cs [Design]",
+              "RelativeToolTip": "form\\bills.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:03:57.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form10.cs",
+              "DocumentMoniker": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Form10.cs",
+              "RelativeDocumentMoniker": "form\\Form10.cs",
+              "ToolTip": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Form10.cs",
+              "RelativeToolTip": "form\\Form10.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwFoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:35:28.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form10.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Form10.cs",
+              "RelativeDocumentMoniker": "form\\Form10.cs",
+              "ToolTip": "C:\\Users\\NC\\Desktop\\form - Copy\\form\\Form10.cs [Design]",
+              "RelativeToolTip": "..\\..\\form - Copy\\form\\Form10.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:31:00.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Form1.resx",
+              "RelativeDocumentMoniker": "form\\Form1.resx",
+              "ToolTip": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Form1.resx",
+              "RelativeToolTip": "form\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-06T09:22:19.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "form\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Form1.Designer.cs",
+              "RelativeToolTip": "form\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:22:18.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Form1.cs",
+              "RelativeDocumentMoniker": "form\\Form1.cs",
+              "ToolTip": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Form1.cs",
+              "RelativeToolTip": "form\\Form1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:22:18.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Form1.cs",
+              "RelativeDocumentMoniker": "form\\Form1.cs",
+              "ToolTip": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Form1.cs [Design]",
+              "RelativeToolTip": "form\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:22:13.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Doctors.cs",
+              "DocumentMoniker": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Doctors.cs",
+              "RelativeDocumentMoniker": "form\\Doctors.cs",
+              "ToolTip": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Doctors.cs",
+              "RelativeToolTip": "form\\Doctors.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAAAAcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:56:56.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Doctors.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NC\\Desktop\\Rabeel(032)\\form - Copy\\form\\Doctors.cs",
+              "RelativeDocumentMoniker": "form\\Doctors.cs",
+              "ToolTip": "C:\\Users\\NC\\Desktop\\form - Copy\\form\\Doctors.cs [Design]",
+              "RelativeToolTip": "..\\..\\form - Copy\\form\\Doctors.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:54:33.975Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

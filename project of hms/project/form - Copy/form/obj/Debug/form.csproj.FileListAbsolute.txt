@@ -1,0 +1,93 @@
+C:\Users\NC\Documents\form\form\bin\Debug\form.exe.config
+C:\Users\NC\Documents\form\form\bin\Debug\form.exe
+C:\Users\NC\Documents\form\form\bin\Debug\form.pdb
+C:\Users\NC\Documents\form\form\obj\Debug\form.csproj.AssemblyReference.cache
+C:\Users\NC\Documents\form\form\obj\Debug\form.Form1.resources
+C:\Users\NC\Documents\form\form\obj\Debug\form.Form2.resources
+C:\Users\NC\Documents\form\form\obj\Debug\form.patients.resources
+C:\Users\NC\Documents\form\form\obj\Debug\form.Properties.Resources.resources
+C:\Users\NC\Documents\form\form\obj\Debug\form.csproj.GenerateResource.cache
+C:\Users\NC\Documents\form\form\obj\Debug\form.csproj.CoreCompileInputs.cache
+C:\Users\NC\Documents\form\form\obj\Debug\form.exe
+C:\Users\NC\Documents\form\form\obj\Debug\form.pdb
+C:\Users\NC\Documents\form\form\obj\Debug\form.doctors.resources
+C:\Users\NC\Documents\form\form\obj\Debug\form.appointment.resources
+C:\Users\NC\Documents\form\form\obj\Debug\form.medicalrecords.resources
+C:\Users\NC\Documents\form\form\obj\Debug\form.bills.resources
+C:\Users\NC\Documents\form\form\obj\Debug\form.Form10.resources
+C:\Users\NC\Documents\form\form\obj\Debug\form.Form11.resources
+C:\Users\NC\Desktop\form\form\obj\Debug\form.csproj.AssemblyReference.cache
+C:\Users\NC\Desktop\form\form\obj\Debug\form.appointment.resources
+C:\Users\NC\Desktop\form\form\obj\Debug\form.bills.resources
+C:\Users\NC\Desktop\form\form\obj\Debug\form.doctors.resources
+C:\Users\NC\Desktop\form\form\obj\Debug\form.Form1.resources
+C:\Users\NC\Desktop\form\form\obj\Debug\form.Form10.resources
+C:\Users\NC\Desktop\form\form\obj\Debug\form.Form2.resources
+C:\Users\NC\Desktop\form\form\obj\Debug\form.medicalrecords.resources
+C:\Users\NC\Desktop\form\form\obj\Debug\form.patients.resources
+C:\Users\NC\Desktop\form\form\obj\Debug\form.Properties.Resources.resources
+C:\Users\NC\Desktop\form\form\obj\Debug\form.csproj.GenerateResource.cache
+C:\Users\NC\Desktop\form\form\obj\Debug\form.csproj.CoreCompileInputs.cache
+C:\Users\NC\Desktop\form\form\obj\Debug\form.exe
+C:\Users\NC\Desktop\form\form\obj\Debug\form.pdb
+C:\Users\NC\Desktop\form\form\bin\Debug\form.exe.config
+C:\Users\NC\Desktop\form\form\bin\Debug\form.exe
+C:\Users\NC\Desktop\form\form\bin\Debug\form.pdb
+C:\Users\NC\Desktop\form\form\obj\Debug\form.Form3.resources
+C:\Users\NC\Desktop\form\form\obj\Debug\form.receptionists.resources
+C:\Users\NC\Desktop\form - Copy\form\obj\Debug\form.csproj.AssemblyReference.cache
+C:\Users\NC\Desktop\form - Copy\form\obj\Debug\form.appointment.resources
+C:\Users\NC\Desktop\form - Copy\form\obj\Debug\form.bills.resources
+C:\Users\NC\Desktop\form - Copy\form\obj\Debug\form.Doctors.resources
+C:\Users\NC\Desktop\form - Copy\form\obj\Debug\form.Form1.resources
+C:\Users\NC\Desktop\form - Copy\form\obj\Debug\form.Form10.resources
+C:\Users\NC\Desktop\form - Copy\form\obj\Debug\form.Form2.resources
+C:\Users\NC\Desktop\form - Copy\form\obj\Debug\form.Form3.resources
+C:\Users\NC\Desktop\form - Copy\form\obj\Debug\form.medicalrecords.resources
+C:\Users\NC\Desktop\form - Copy\form\obj\Debug\form.Patients.resources
+C:\Users\NC\Desktop\form - Copy\form\obj\Debug\form.Properties.Resources.resources
+C:\Users\NC\Desktop\form - Copy\form\obj\Debug\form.csproj.GenerateResource.cache
+C:\Users\NC\Desktop\form - Copy\form\obj\Debug\form.csproj.CoreCompileInputs.cache
+C:\Users\NC\Desktop\form - Copy\form\obj\Debug\form.exe
+C:\Users\NC\Desktop\form - Copy\form\obj\Debug\form.pdb
+C:\Users\NC\Desktop\form - Copy\form\bin\Debug\form.exe.config
+C:\Users\NC\Desktop\form - Copy\form\bin\Debug\form.exe
+C:\Users\NC\Desktop\form - Copy\form\bin\Debug\form.pdb
+C:\Users\NC\Desktop\Rabeel(032)\form - Copy\form\bin\Debug\form.exe.config
+C:\Users\NC\Desktop\Rabeel(032)\form - Copy\form\bin\Debug\form.exe
+C:\Users\NC\Desktop\Rabeel(032)\form - Copy\form\bin\Debug\form.pdb
+C:\Users\NC\Desktop\Rabeel(032)\form - Copy\form\obj\Debug\form.csproj.AssemblyReference.cache
+C:\Users\NC\Desktop\Rabeel(032)\form - Copy\form\obj\Debug\form.Appointment.resources
+C:\Users\NC\Desktop\Rabeel(032)\form - Copy\form\obj\Debug\form.bills.resources
+C:\Users\NC\Desktop\Rabeel(032)\form - Copy\form\obj\Debug\form.Doctors.resources
+C:\Users\NC\Desktop\Rabeel(032)\form - Copy\form\obj\Debug\form.Form1.resources
+C:\Users\NC\Desktop\Rabeel(032)\form - Copy\form\obj\Debug\form.Form10.resources
+C:\Users\NC\Desktop\Rabeel(032)\form - Copy\form\obj\Debug\form.Form2.resources
+C:\Users\NC\Desktop\Rabeel(032)\form - Copy\form\obj\Debug\form.Form3.resources
+C:\Users\NC\Desktop\Rabeel(032)\form - Copy\form\obj\Debug\form.medicalrecords.resources
+C:\Users\NC\Desktop\Rabeel(032)\form - Copy\form\obj\Debug\form.Patients.resources
+C:\Users\NC\Desktop\Rabeel(032)\form - Copy\form\obj\Debug\form.Properties.Resources.resources
+C:\Users\NC\Desktop\Rabeel(032)\form - Copy\form\obj\Debug\form.csproj.GenerateResource.cache
+C:\Users\NC\Desktop\Rabeel(032)\form - Copy\form\obj\Debug\form.csproj.CoreCompileInputs.cache
+C:\Users\NC\Desktop\Rabeel(032)\form - Copy\form\obj\Debug\form.exe
+C:\Users\NC\Desktop\Rabeel(032)\form - Copy\form\obj\Debug\form.pdb
+C:\Users\NC\Desktop\Rabeel(032)\form - Copy\form\obj\Debug\form.Diagnosis.resources
+C:\Users\Administrator\Downloads\DataBase Project\DataBase Project\form - Copy\form\obj\Debug\form.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\DataBase Project\DataBase Project\form - Copy\form\obj\Debug\form.exe
+C:\Users\Administrator\Downloads\DataBase Project\DataBase Project\form - Copy\form\obj\Debug\form.pdb
+C:\Users\Administrator\Downloads\DataBase Project\DataBase Project\form - Copy\form\bin\Debug\form.exe.config
+C:\Users\Administrator\Downloads\DataBase Project\DataBase Project\form - Copy\form\bin\Debug\form.exe
+C:\Users\Administrator\Downloads\DataBase Project\DataBase Project\form - Copy\form\bin\Debug\form.pdb
+C:\Users\Administrator\Downloads\DataBase Project\DataBase Project\form - Copy\form\obj\Debug\form.Appointment.resources
+C:\Users\Administrator\Downloads\DataBase Project\DataBase Project\form - Copy\form\obj\Debug\form.bills.resources
+C:\Users\Administrator\Downloads\DataBase Project\DataBase Project\form - Copy\form\obj\Debug\form.Doctors.resources
+C:\Users\Administrator\Downloads\DataBase Project\DataBase Project\form - Copy\form\obj\Debug\form.Form1.resources
+C:\Users\Administrator\Downloads\DataBase Project\DataBase Project\form - Copy\form\obj\Debug\form.Form10.resources
+C:\Users\Administrator\Downloads\DataBase Project\DataBase Project\form - Copy\form\obj\Debug\form.Form2.resources
+C:\Users\Administrator\Downloads\DataBase Project\DataBase Project\form - Copy\form\obj\Debug\form.Form3.resources
+C:\Users\Administrator\Downloads\DataBase Project\DataBase Project\form - Copy\form\obj\Debug\form.medicalrecords.resources
+C:\Users\Administrator\Downloads\DataBase Project\DataBase Project\form - Copy\form\obj\Debug\form.Patients.resources
+C:\Users\Administrator\Downloads\DataBase Project\DataBase Project\form - Copy\form\obj\Debug\form.Properties.Resources.resources
+C:\Users\Administrator\Downloads\DataBase Project\DataBase Project\form - Copy\form\obj\Debug\form.Diagnosis.resources
+C:\Users\Administrator\Downloads\DataBase Project\DataBase Project\form - Copy\form\obj\Debug\form.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\DataBase Project\DataBase Project\form - Copy\form\obj\Debug\form.csproj.CoreCompileInputs.cache
